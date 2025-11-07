@@ -34,12 +34,14 @@ class _CounterPageState extends State<CounterPage> {
       backgroundColor: Colors.black,
       body: Center(
           child: Column(
+             mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
                 counter.toString(),
                 style: TextStyle(color: Colors.white,fontSize: 200),
               ),
-              SizedBox(height: 50,),
+              SizedBox(height: 70,),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [

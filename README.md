@@ -13,6 +13,11 @@ This app demonstrates basic Flutter concepts.
 
 
 ## Schreenshots
+[HomeSchreen](Screenshot_20260113_193633.jpg)
+
+[Increment](Screenshot_20260113_193641.jpg)
+
+[Decrement](Screenshot_20260113_193647.jpg)
 
 
 
